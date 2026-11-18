@@ -1,0 +1,109 @@
+{
+  "judul": "Panel bulanan wisatawan Bali dan cuaca Denpasar, 1982-2025",
+  "dibuat_oleh": "Angelina Florensiana Jelita (2501010371)",
+  "tanggal_dibuat": "2026-11-18T18:21:25+08:00",
+  "sumber": [
+    {
+      "id_sumber": "S1-domestik",
+      "judul": "Banyaknya Wisatawan Domestik Bulanan ke Bali, 2004-2025",
+      "url": "https://bali.bps.go.id/id/statistics-table/1/MjkjMQ%3D%3D/banyaknya-wisatawan-domestik-bulanan-ke-bali-2004-2025.html",
+      "lisensi": "Ketentuan penggunaan BPS: perlu diverifikasi berdasarkan ketentuan portal dan dataset sumber. Cantumkan kredit BPS sesuai ketentuan yang berlaku. Bukan asumsi lisensi Creative Commons.",
+      "atribusi": "BPS Provinsi Bali. \"Banyaknya Wisatawan Domestik Bulanan ke Bali, 2004-2025\". https://bali.bps.go.id/id/statistics-table/1/MjkjMQ%3D%3D/banyaknya-wisatawan-domestik-bulanan-ke-bali-2004-2025.html. Diakses 2026-11-17."
+    },
+    {
+      "id_sumber": "S1-mancanegara",
+      "judul": "Banyaknya Wisatawan Mancanegara Bulanan ke Bali, 1982-2008",
+      "url": "https://bali.bps.go.id/id/statistics-table/1/MjEjMQ%3D%3D/banyaknya-wisatawan-mancanegara-bulanan-ke-bali--1982-2008.html",
+      "lisensi": "Ketentuan penggunaan BPS: perlu diverifikasi berdasarkan ketentuan portal dan dataset sumber. Cantumkan kredit BPS sesuai ketentuan yang berlaku. Bukan asumsi lisensi Creative Commons.",
+      "atribusi": "BPS Provinsi Bali. \"Banyaknya Wisatawan Mancanegara Bulanan ke Bali, 1982-2008\". https://bali.bps.go.id/id/statistics-table/1/MjEjMQ%3D%3D/banyaknya-wisatawan-mancanegara-bulanan-ke-bali--1982-2008.html. Diakses 2026-11-17."
+    },
+    {
+      "id_sumber": "S2-openmeteo",
+      "judul": "Open-Meteo Historical Weather API",
+      "url": "https://archive-api.open-meteo.com/v1/archive",
+      "lisensi": "CC BY 4.0",
+      "atribusi": "Weather data by Open-Meteo.com (https://open-meteo.com/), CC BY 4.0. Data diubah: harian diagregasi menjadi bulanan."
+    }
+  ],
+  "transformasi": [
+    "wide -> long untuk dua CSV BPS",
+    "concat domestik + mancanegara (6 kolom)",
+    "agregasi cuaca harian -> bulanan",
+    "merge outer one_to_one (domestik, mancanegara)",
+    "merge left one_to_one (+cuaca) pada kunci tahun,bulan"
+  ],
+  "jumlah_baris": 528,
+  "jumlah_kolom": 11,
+  "kolom": {
+    "tahun": {
+      "tipe": "int",
+      "satuan": "tahun",
+      "deskripsi": "Tahun kalender"
+    },
+    "bulan": {
+      "tipe": "int",
+      "satuan": "1-12",
+      "deskripsi": "Nomor bulan"
+    },
+    "periode": {
+      "tipe": "str",
+      "satuan": "YYYY-MM",
+      "deskripsi": "Periode bulanan"
+    },
+    "nama_bulan": {
+      "tipe": "str",
+      "satuan": "-",
+      "deskripsi": "Nama bulan (Indonesia)"
+    },
+    "wisatawan_domestik": {
+      "tipe": "float",
+      "satuan": "orang",
+      "deskripsi": "Kunjungan wisatawan domestik ke Bali (BPS/Dispar Bali; 2004-2025)"
+    },
+    "wisatawan_mancanegara": {
+      "tipe": "float",
+      "satuan": "orang",
+      "deskripsi": "Kunjungan wisatawan mancanegara ke Bali (BPS Bali; 1982-2008)"
+    },
+    "asal_data": {
+      "tipe": "str",
+      "satuan": "-",
+      "deskripsi": "Sumber mana saja yang punya data pada bulan tsb"
+    },
+    "suhu_rata2_c": {
+      "tipe": "float",
+      "satuan": "derajat Celsius",
+      "deskripsi": "Rata-rata suhu harian 2 m, Denpasar (Open-Meteo/ERA5)"
+    },
+    "curah_hujan_mm": {
+      "tipe": "float",
+      "satuan": "mm",
+      "deskripsi": "Total curah hujan bulanan"
+    },
+    "hari_hujan": {
+      "tipe": "int",
+      "satuan": "hari",
+      "deskripsi": "Jumlah hari dengan curah hujan >= 1 mm"
+    },
+    "n_hari_cuaca": {
+      "tipe": "int",
+      "satuan": "hari",
+      "deskripsi": "Jumlah hari data cuaca pada bulan tsb"
+    }
+  },
+  "bukti_tanpa_duplikasi": {
+    "baris_sebelum_merge_cuaca": 528,
+    "baris_sesudah_merge_cuaca": 528,
+    "duplikat_kunci_tahun_bulan": 0,
+    "duplikat_seluruh_baris": 0,
+    "baris_tanpa_pasangan_cuaca": 0,
+    "jumlah_kombinasi_tahun_bulan_unik": 528,
+    "kunci_unik_(is_unique)": true
+  },
+  "catatan_keterbatasan": [
+    "Domestik hanya 2004-2025 dan mancanegara hanya 1982-2008: perbandingan langsung hanya 2004-2008.",
+    "Cuaca = satu titik Denpasar (reanalisis ERA5), bukan seluruh Bali.",
+    "Kolom 'Pertumbuhan' resmi BPS mancanegara memiliki nilai yang tidak cocok dengan hitung ulang (lihat Bagian 7)."
+  ],
+  "md5_berkas_hasil": "59f9aa4c34f78bf0f35c8777fbd277da"
+}

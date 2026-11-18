@@ -1,0 +1,529 @@
+tahun,bulan,periode,nama_bulan,wisatawan_domestik,wisatawan_mancanegara,asal_data,suhu_rata2_c,curah_hujan_mm,hari_hujan,n_hari_cuaca
+1982,1,1982-01,Januari,,11961.0,hanya mancanegara,25.84,382.9,27,31
+1982,2,1982-02,Februari,,10278.0,hanya mancanegara,25.67,336.8,28,28
+1982,3,1982-03,Maret,,12454.0,hanya mancanegara,25.55,254.1,24,31
+1982,4,1982-04,April,,10946.0,hanya mancanegara,25.98,229.7,26,30
+1982,5,1982-05,Mei,,10982.0,hanya mancanegara,25.35,33.5,11,31
+1982,6,1982-06,Juni,,12768.0,hanya mancanegara,25.06,19.5,7,30
+1982,7,1982-07,Juli,,14649.0,hanya mancanegara,24.15,14.8,7,31
+1982,8,1982-08,Agustus,,16982.0,hanya mancanegara,23.73,40.2,12,31
+1982,9,1982-09,September,,10141.0,hanya mancanegara,23.99,7.6,3,30
+1982,10,1982-10,Oktober,,12265.0,hanya mancanegara,25.13,4.2,3,31
+1982,11,1982-11,November,,13809.0,hanya mancanegara,26.34,26.3,9,30
+1982,12,1982-12,Desember,,13438.0,hanya mancanegara,26.44,337.3,30,31
+1983,1,1983-01,Januari,,12024.0,hanya mancanegara,26.24,418.2,28,31
+1983,2,1983-02,Februari,,11192.0,hanya mancanegara,26.35,459.0,28,28
+1983,3,1983-03,Maret,,12906.0,hanya mancanegara,26.69,429.9,31,31
+1983,4,1983-04,April,,11916.0,hanya mancanegara,26.43,456.1,30,30
+1983,5,1983-05,Mei,,13184.0,hanya mancanegara,25.79,274.5,25,31
+1983,6,1983-06,Juni,,10923.0,hanya mancanegara,25.05,44.6,12,30
+1983,7,1983-07,Juli,,14860.0,hanya mancanegara,23.93,36.2,10,31
+1983,8,1983-08,Agustus,,18800.0,hanya mancanegara,24.0,16.5,7,31
+1983,9,1983-09,September,,15203.0,hanya mancanegara,24.53,12.7,6,30
+1983,10,1983-10,Oktober,,16685.0,hanya mancanegara,25.46,263.7,23,31
+1983,11,1983-11,November,,14003.0,hanya mancanegara,25.56,430.0,29,30
+1983,12,1983-12,Desember,,14879.0,hanya mancanegara,25.37,372.8,24,31
+1984,1,1984-01,Januari,,17062.0,hanya mancanegara,25.49,571.0,31,31
+1984,2,1984-02,Februari,,14038.0,hanya mancanegara,25.3,528.1,29,29
+1984,3,1984-03,Maret,,17546.0,hanya mancanegara,25.55,416.3,31,31
+1984,4,1984-04,April,,15588.0,hanya mancanegara,26.28,217.3,22,30
+1984,5,1984-05,Mei,,13665.0,hanya mancanegara,25.97,105.8,18,31
+1984,6,1984-06,Juni,,12384.0,hanya mancanegara,24.84,45.9,9,30
+1984,7,1984-07,Juli,,15975.0,hanya mancanegara,24.08,32.9,8,31
+1984,8,1984-08,Agustus,,20310.0,hanya mancanegara,24.3,64.6,16,31
+1984,9,1984-09,September,,15309.0,hanya mancanegara,24.72,381.0,28,30
+1984,10,1984-10,Oktober,,14755.0,hanya mancanegara,25.42,83.1,16,31
+1984,11,1984-11,November,,15704.0,hanya mancanegara,25.86,130.7,19,30
+1984,12,1984-12,Desember,,16497.0,hanya mancanegara,25.38,484.3,28,31
+1985,1,1985-01,Januari,,14897.0,hanya mancanegara,25.75,307.2,28,31
+1985,2,1985-02,Februari,,16899.0,hanya mancanegara,26.22,361.4,27,28
+1985,3,1985-03,Maret,,19813.0,hanya mancanegara,25.85,296.9,24,31
+1985,4,1985-04,April,,14462.0,hanya mancanegara,26.34,184.6,18,30
+1985,5,1985-05,Mei,,16678.0,hanya mancanegara,26.08,61.3,13,31
+1985,6,1985-06,Juni,,15999.0,hanya mancanegara,25.11,85.8,11,30
+1985,7,1985-07,Juli,,16931.0,hanya mancanegara,24.05,156.7,10,31
+1985,8,1985-08,Agustus,,22027.0,hanya mancanegara,24.25,31.4,11,31
+1985,9,1985-09,September,,19289.0,hanya mancanegara,24.36,33.0,8,30
+1985,10,1985-10,Oktober,,17772.0,hanya mancanegara,24.81,79.6,12,31
+1985,11,1985-11,November,,16209.0,hanya mancanegara,25.61,228.0,23,30
+1985,12,1985-12,Desember,,20246.0,hanya mancanegara,25.47,299.7,25,31
+1986,1,1986-01,Januari,,19378.0,hanya mancanegara,25.57,404.6,31,31
+1986,2,1986-02,Februari,,18738.0,hanya mancanegara,25.35,459.3,28,28
+1986,3,1986-03,Maret,,21414.0,hanya mancanegara,25.73,436.9,31,31
+1986,4,1986-04,April,,16915.0,hanya mancanegara,26.23,168.1,20,30
+1986,5,1986-05,Mei,,18199.0,hanya mancanegara,25.79,27.8,11,31
+1986,6,1986-06,Juni,,18129.0,hanya mancanegara,25.17,288.0,30,30
+1986,7,1986-07,Juli,,18989.0,hanya mancanegara,24.14,78.1,18,31
+1986,8,1986-08,Agustus,,27251.0,hanya mancanegara,23.75,36.7,13,31
+1986,9,1986-09,September,,20414.0,hanya mancanegara,24.21,60.3,13,30
+1986,10,1986-10,Oktober,,20222.0,hanya mancanegara,24.46,75.1,19,31
+1986,11,1986-11,November,,21506.0,hanya mancanegara,25.47,187.5,23,30
+1986,12,1986-12,Desember,,22199.0,hanya mancanegara,25.91,258.1,22,31
+1987,1,1987-01,Januari,,22870.0,hanya mancanegara,25.69,524.1,30,31
+1987,2,1987-02,Februari,,21652.0,hanya mancanegara,25.88,288.2,28,28
+1987,3,1987-03,Maret,,25511.0,hanya mancanegara,26.24,174.8,25,31
+1987,4,1987-04,April,,23206.0,hanya mancanegara,26.56,62.7,15,30
+1987,5,1987-05,Mei,,22379.0,hanya mancanegara,26.19,90.9,17,31
+1987,6,1987-06,Juni,,24382.0,hanya mancanegara,25.48,73.3,15,30
+1987,7,1987-07,Juli,,26811.0,hanya mancanegara,24.41,35.1,13,31
+1987,8,1987-08,Agustus,,30485.0,hanya mancanegara,23.9,31.1,8,31
+1987,9,1987-09,September,,25912.0,hanya mancanegara,24.44,25.9,7,30
+1987,10,1987-10,Oktober,,28707.0,hanya mancanegara,24.83,29.5,13,31
+1987,11,1987-11,November,,28643.0,hanya mancanegara,25.37,234.0,22,30
+1987,12,1987-12,Desember,,28734.0,hanya mancanegara,25.55,496.7,27,31
+1988,1,1988-01,Januari,,29251.0,hanya mancanegara,25.8,534.0,27,31
+1988,2,1988-02,Februari,,28207.0,hanya mancanegara,26.19,305.6,26,29
+1988,3,1988-03,Maret,,31957.0,hanya mancanegara,26.81,425.0,30,31
+1988,4,1988-04,April,,26829.0,hanya mancanegara,26.62,98.7,16,30
+1988,5,1988-05,Mei,,26445.0,hanya mancanegara,26.56,120.8,22,31
+1988,6,1988-06,Juni,,26804.0,hanya mancanegara,25.48,22.9,6,30
+1988,7,1988-07,Juli,,33336.0,hanya mancanegara,24.29,39.2,12,31
+1988,8,1988-08,Agustus,,31573.0,hanya mancanegara,24.46,108.2,17,31
+1988,9,1988-09,September,,30036.0,hanya mancanegara,24.99,57.3,11,30
+1988,10,1988-10,Oktober,,32534.0,hanya mancanegara,25.73,131.7,19,31
+1988,11,1988-11,November,,31520.0,hanya mancanegara,25.61,418.5,22,30
+1988,12,1988-12,Desember,,31921.0,hanya mancanegara,25.37,293.4,27,31
+1989,1,1989-01,Januari,,31755.0,hanya mancanegara,25.5,444.9,31,31
+1989,2,1989-02,Februari,,32279.0,hanya mancanegara,25.37,435.9,28,28
+1989,3,1989-03,Maret,,37689.0,hanya mancanegara,25.54,358.8,30,31
+1989,4,1989-04,April,,32063.0,hanya mancanegara,25.72,160.3,24,30
+1989,5,1989-05,Mei,,29049.0,hanya mancanegara,25.99,78.1,20,31
+1989,6,1989-06,Juni,,35359.0,hanya mancanegara,25.34,240.3,23,30
+1989,7,1989-07,Juli,,41495.0,hanya mancanegara,24.95,96.2,17,31
+1989,8,1989-08,Agustus,,39700.0,hanya mancanegara,24.59,92.2,16,31
+1989,9,1989-09,September,,40063.0,hanya mancanegara,24.73,24.5,9,30
+1989,10,1989-10,Oktober,,39283.0,hanya mancanegara,25.23,55.2,13,31
+1989,11,1989-11,November,,37565.0,hanya mancanegara,25.8,139.1,18,30
+1989,12,1989-12,Desember,,40058.0,hanya mancanegara,25.99,179.7,27,31
+1990,1,1990-01,Januari,,40066.0,hanya mancanegara,25.95,458.8,31,31
+1990,2,1990-02,Februari,,32808.0,hanya mancanegara,26.14,263.1,26,28
+1990,3,1990-03,Maret,,38298.0,hanya mancanegara,26.23,275.3,27,31
+1990,4,1990-04,April,,39619.0,hanya mancanegara,26.52,149.4,23,30
+1990,5,1990-05,Mei,,34879.0,hanya mancanegara,26.23,83.0,22,31
+1990,6,1990-06,Juni,,40615.0,hanya mancanegara,25.48,18.0,7,30
+1990,7,1990-07,Juli,,48048.0,hanya mancanegara,24.65,53.2,13,31
+1990,8,1990-08,Agustus,,47283.0,hanya mancanegara,24.51,31.3,10,31
+1990,9,1990-09,September,,45682.0,hanya mancanegara,24.87,35.9,11,30
+1990,10,1990-10,Oktober,,42275.0,hanya mancanegara,25.63,30.4,7,31
+1990,11,1990-11,November,,36641.0,hanya mancanegara,26.24,58.9,10,30
+1990,12,1990-12,Desember,,43496.0,hanya mancanegara,25.89,362.7,31,31
+1991,1,1991-01,Januari,,34919.0,hanya mancanegara,25.88,480.8,31,31
+1991,2,1991-02,Februari,,32585.0,hanya mancanegara,26.32,344.6,28,28
+1991,3,1991-03,Maret,,39618.0,hanya mancanegara,26.39,149.4,23,31
+1991,4,1991-04,April,,38157.0,hanya mancanegara,25.91,397.4,29,30
+1991,5,1991-05,Mei,,37592.0,hanya mancanegara,25.7,31.6,8,31
+1991,6,1991-06,Juni,,49375.0,hanya mancanegara,25.18,11.3,5,30
+1991,7,1991-07,Juli,,56847.0,hanya mancanegara,24.48,49.3,13,31
+1991,8,1991-08,Agustus,,56183.0,hanya mancanegara,23.82,11.7,7,31
+1991,9,1991-09,September,,55136.0,hanya mancanegara,24.05,39.9,13,30
+1991,10,1991-10,Oktober,,51234.0,hanya mancanegara,25.02,6.5,3,31
+1991,11,1991-11,November,,48335.0,hanya mancanegara,25.05,270.7,25,30
+1991,12,1991-12,Desember,,54994.0,hanya mancanegara,25.82,289.0,27,31
+1992,1,1992-01,Januari,,46877.0,hanya mancanegara,25.89,334.6,29,31
+1992,2,1992-02,Februari,,54384.0,hanya mancanegara,25.97,358.9,28,29
+1992,3,1992-03,Maret,,47455.0,hanya mancanegara,26.26,352.9,30,31
+1992,4,1992-04,April,,53070.0,hanya mancanegara,26.21,194.1,23,30
+1992,5,1992-05,Mei,,49722.0,hanya mancanegara,26.11,85.6,14,31
+1992,6,1992-06,Juni,,63935.0,hanya mancanegara,25.56,24.5,9,30
+1992,7,1992-07,Juli,,74895.0,hanya mancanegara,24.65,24.0,8,31
+1992,8,1992-08,Agustus,,76439.0,hanya mancanegara,24.47,45.4,11,31
+1992,9,1992-09,September,,72050.0,hanya mancanegara,24.52,103.6,18,30
+1992,10,1992-10,Oktober,,67636.0,hanya mancanegara,25.08,149.1,22,31
+1992,11,1992-11,November,,59163.0,hanya mancanegara,25.57,281.9,20,30
+1992,12,1992-12,Desember,,70151.0,hanya mancanegara,25.4,532.8,26,31
+1993,1,1993-01,Januari,,75558.0,hanya mancanegara,26.15,396.5,31,31
+1993,2,1993-02,Februari,,58539.0,hanya mancanegara,25.96,203.9,22,28
+1993,3,1993-03,Maret,,63512.0,hanya mancanegara,26.05,235.2,25,31
+1993,4,1993-04,April,,67955.0,hanya mancanegara,26.2,204.1,24,30
+1993,5,1993-05,Mei,,69453.0,hanya mancanegara,25.94,75.4,17,31
+1993,6,1993-06,Juni,,72484.0,hanya mancanegara,25.7,89.1,18,30
+1993,7,1993-07,Juli,,84120.0,hanya mancanegara,24.23,18.6,7,31
+1993,8,1993-08,Agustus,,89743.0,hanya mancanegara,24.36,19.9,7,31
+1993,9,1993-09,September,,80691.0,hanya mancanegara,24.41,31.2,9,30
+1993,10,1993-10,Oktober,,76116.0,hanya mancanegara,24.95,81.2,19,31
+1993,11,1993-11,November,,71170.0,hanya mancanegara,26.13,138.5,19,30
+1993,12,1993-12,Desember,,74865.0,hanya mancanegara,26.17,293.9,23,31
+1994,1,1994-01,Januari,,73776.0,hanya mancanegara,25.75,494.8,28,31
+1994,2,1994-02,Februari,,87313.0,hanya mancanegara,26.04,401.0,28,28
+1994,3,1994-03,Maret,,77513.0,hanya mancanegara,25.5,626.4,31,31
+1994,4,1994-04,April,,78838.0,hanya mancanegara,25.88,123.6,19,30
+1994,5,1994-05,Mei,,73695.0,hanya mancanegara,25.05,21.0,9,31
+1994,6,1994-06,Juni,,74086.0,hanya mancanegara,24.25,12.6,5,30
+1994,7,1994-07,Juli,,103849.0,hanya mancanegara,23.78,17.9,7,31
+1994,8,1994-08,Agustus,,102743.0,hanya mancanegara,23.65,6.0,2,31
+1994,9,1994-09,September,,99230.0,hanya mancanegara,24.07,3.1,2,30
+1994,10,1994-10,Oktober,,90529.0,hanya mancanegara,24.96,20.9,7,31
+1994,11,1994-11,November,,82075.0,hanya mancanegara,26.45,99.8,22,30
+1994,12,1994-12,Desember,,87297.0,hanya mancanegara,26.04,254.9,24,31
+1995,1,1995-01,Januari,,87705.0,hanya mancanegara,25.85,550.4,31,31
+1995,2,1995-02,Februari,,86487.0,hanya mancanegara,26.04,525.4,28,28
+1995,3,1995-03,Maret,,72300.0,hanya mancanegara,25.74,435.5,31,31
+1995,4,1995-04,April,,75534.0,hanya mancanegara,26.22,178.1,23,30
+1995,5,1995-05,Mei,,65488.0,hanya mancanegara,26.19,37.2,12,31
+1995,6,1995-06,Juni,,73670.0,hanya mancanegara,25.57,75.4,17,30
+1995,7,1995-07,Juli,,98997.0,hanya mancanegara,24.62,59.5,10,31
+1995,8,1995-08,Agustus,,103680.0,hanya mancanegara,23.96,29.0,11,31
+1995,9,1995-09,September,,94511.0,hanya mancanegara,24.91,18.8,10,30
+1995,10,1995-10,Oktober,,90366.0,hanya mancanegara,25.44,66.3,16,31
+1995,11,1995-11,November,,78697.0,hanya mancanegara,25.62,442.3,28,30
+1995,12,1995-12,Desember,,86650.0,hanya mancanegara,25.65,294.2,28,31
+1996,1,1996-01,Januari,,74124.0,hanya mancanegara,25.42,378.7,30,31
+1996,2,1996-02,Februari,,87983.0,hanya mancanegara,25.55,424.5,29,29
+1996,3,1996-03,Maret,,93380.0,hanya mancanegara,26.35,209.3,27,31
+1996,4,1996-04,April,,84983.0,hanya mancanegara,26.27,120.2,16,30
+1996,5,1996-05,Mei,,80553.0,hanya mancanegara,25.53,60.3,15,31
+1996,6,1996-06,Juni,,98151.0,hanya mancanegara,25.55,30.6,11,30
+1996,7,1996-07,Juli,,110620.0,hanya mancanegara,24.75,45.1,13,31
+1996,8,1996-08,Agustus,,113892.0,hanya mancanegara,24.69,46.1,14,31
+1996,9,1996-09,September,,106989.0,hanya mancanegara,24.83,16.4,8,30
+1996,10,1996-10,Oktober,,101899.0,hanya mancanegara,25.93,111.8,25,31
+1996,11,1996-11,November,,90724.0,hanya mancanegara,25.98,234.8,27,30
+1996,12,1996-12,Desember,,95597.0,hanya mancanegara,25.92,394.6,30,31
+1997,1,1997-01,Januari,,83223.0,hanya mancanegara,25.57,436.5,30,31
+1997,2,1997-02,Februari,,97456.0,hanya mancanegara,25.56,504.3,28,28
+1997,3,1997-03,Maret,,112714.0,hanya mancanegara,26.02,42.2,16,31
+1997,4,1997-04,April,,90640.0,hanya mancanegara,26.17,131.1,22,30
+1997,5,1997-05,Mei,,91924.0,hanya mancanegara,25.95,34.4,10,31
+1997,6,1997-06,Juni,,105141.0,hanya mancanegara,25.41,23.1,10,30
+1997,7,1997-07,Juli,,117873.0,hanya mancanegara,23.93,25.2,6,31
+1997,8,1997-08,Agustus,,127675.0,hanya mancanegara,23.81,14.3,6,31
+1997,9,1997-09,September,,124582.0,hanya mancanegara,24.13,11.1,2,30
+1997,10,1997-10,Oktober,,96784.0,hanya mancanegara,24.97,18.0,6,31
+1997,11,1997-11,November,,88009.0,hanya mancanegara,25.78,94.2,25,30
+1997,12,1997-12,Desember,,94295.0,hanya mancanegara,26.29,251.6,28,31
+1998,1,1998-01,Januari,,88582.0,hanya mancanegara,26.64,290.9,27,31
+1998,2,1998-02,Februari,,87377.0,hanya mancanegara,26.85,349.4,28,28
+1998,3,1998-03,Maret,,87241.0,hanya mancanegara,26.85,486.7,31,31
+1998,4,1998-04,April,,92936.0,hanya mancanegara,27.3,230.8,29,30
+1998,5,1998-05,Mei,,66326.0,hanya mancanegara,26.79,152.7,17,31
+1998,6,1998-06,Juni,,67446.0,hanya mancanegara,26.37,171.5,25,30
+1998,7,1998-07,Juli,,105352.0,hanya mancanegara,26.23,148.9,21,31
+1998,8,1998-08,Agustus,,127030.0,hanya mancanegara,25.61,33.7,11,31
+1998,9,1998-09,September,,126281.0,hanya mancanegara,25.45,90.6,19,30
+1998,10,1998-10,Oktober,,120607.0,hanya mancanegara,26.15,214.2,29,31
+1998,11,1998-11,November,,111200.0,hanya mancanegara,25.86,332.7,23,30
+1998,12,1998-12,Desember,,106775.0,hanya mancanegara,25.67,381.0,31,31
+1999,1,1999-01,Januari,,102280.0,hanya mancanegara,25.58,490.3,31,31
+1999,2,1999-02,Februari,,105240.0,hanya mancanegara,25.79,400.3,28,28
+1999,3,1999-03,Maret,,117172.0,hanya mancanegara,25.73,410.9,30,31
+1999,4,1999-04,April,,104028.0,hanya mancanegara,25.61,440.2,26,30
+1999,5,1999-05,Mei,,104526.0,hanya mancanegara,25.71,36.7,9,31
+1999,6,1999-06,Juni,,119357.0,hanya mancanegara,25.21,33.2,8,30
+1999,7,1999-07,Juli,,143920.0,hanya mancanegara,24.39,29.9,14,31
+1999,8,1999-08,Agustus,,146209.0,hanya mancanegara,24.34,21.2,8,31
+1999,9,1999-09,September,,134688.0,hanya mancanegara,24.76,29.7,9,30
+1999,10,1999-10,Oktober,,104251.0,hanya mancanegara,25.46,168.9,24,31
+1999,11,1999-11,November,,87763.0,hanya mancanegara,25.47,322.4,24,30
+1999,12,1999-12,Desember,,86365.0,hanya mancanegara,25.78,284.8,30,31
+2000,1,2000-01,Januari,,92604.0,hanya mancanegara,25.8,401.7,28,31
+2000,2,2000-02,Februari,,104083.0,hanya mancanegara,25.84,434.4,29,29
+2000,3,2000-03,Maret,,110582.0,hanya mancanegara,25.72,452.2,30,31
+2000,4,2000-04,April,,109634.0,hanya mancanegara,25.74,349.5,30,30
+2000,5,2000-05,Mei,,103939.0,hanya mancanegara,25.74,154.4,26,31
+2000,6,2000-06,Juni,,122352.0,hanya mancanegara,24.58,103.0,20,30
+2000,7,2000-07,Juli,,142946.0,hanya mancanegara,24.44,18.0,6,31
+2000,8,2000-08,Agustus,,144324.0,hanya mancanegara,24.07,35.6,12,31
+2000,9,2000-09,September,,140008.0,hanya mancanegara,25.04,41.0,15,30
+2000,10,2000-10,Oktober,,129932.0,hanya mancanegara,25.48,154.7,22,31
+2000,11,2000-11,November,,110145.0,hanya mancanegara,25.66,400.0,30,30
+2000,12,2000-12,Desember,,102290.0,hanya mancanegara,26.05,165.1,17,31
+2001,1,2001-01,Januari,,108897.0,hanya mancanegara,25.74,434.7,29,31
+2001,2,2001-02,Februari,,99040.0,hanya mancanegara,26.0,321.8,22,28
+2001,3,2001-03,Maret,,115997.0,hanya mancanegara,25.82,374.3,30,31
+2001,4,2001-04,April,,117040.0,hanya mancanegara,26.14,177.8,22,30
+2001,5,2001-05,Mei,,111115.0,hanya mancanegara,26.11,38.9,10,31
+2001,6,2001-06,Juni,,128792.0,hanya mancanegara,25.45,117.9,22,30
+2001,7,2001-07,Juli,,138150.0,hanya mancanegara,24.84,31.2,7,31
+2001,8,2001-08,Agustus,,145290.0,hanya mancanegara,24.49,10.4,5,31
+2001,9,2001-09,September,,133667.0,hanya mancanegara,24.97,38.9,12,30
+2001,10,2001-10,Oktober,,96537.0,hanya mancanegara,25.63,136.1,24,31
+2001,11,2001-11,November,,72806.0,hanya mancanegara,25.83,256.3,25,30
+2001,12,2001-12,Desember,,89443.0,hanya mancanegara,25.36,294.9,28,31
+2002,1,2002-01,Januari,,87027.0,hanya mancanegara,25.73,501.6,28,31
+2002,2,2002-02,Februari,,96267.0,hanya mancanegara,25.85,427.3,27,28
+2002,3,2002-03,Maret,,113553.0,hanya mancanegara,26.2,388.7,27,31
+2002,4,2002-04,April,,104958.0,hanya mancanegara,26.48,123.7,18,30
+2002,5,2002-05,Mei,,119284.0,hanya mancanegara,26.25,42.5,15,31
+2002,6,2002-06,Juni,,130563.0,hanya mancanegara,25.06,13.1,5,30
+2002,7,2002-07,Juli,,147033.0,hanya mancanegara,24.31,17.2,6,31
+2002,8,2002-08,Agustus,,160420.0,hanya mancanegara,23.64,6.3,2,31
+2002,9,2002-09,September,,150747.0,hanya mancanegara,23.91,22.8,6,30
+2002,10,2002-10,Oktober,,81100.0,hanya mancanegara,25.25,14.0,5,31
+2002,11,2002-11,November,,31497.0,hanya mancanegara,26.34,166.0,21,30
+2002,12,2002-12,Desember,,63393.0,hanya mancanegara,26.52,415.4,29,31
+2003,1,2003-01,Januari,,60836.0,hanya mancanegara,25.99,402.7,30,31
+2003,2,2003-02,Februari,,67469.0,hanya mancanegara,26.19,423.7,28,28
+2003,3,2003-03,Maret,,72652.0,hanya mancanegara,26.5,195.7,26,31
+2003,4,2003-04,April,,53714.0,hanya mancanegara,26.54,98.8,21,30
+2003,5,2003-05,Mei,,47847.0,hanya mancanegara,25.75,86.3,13,31
+2003,6,2003-06,Juni,,81256.0,hanya mancanegara,25.36,34.5,11,30
+2003,7,2003-07,Juli,,111810.0,hanya mancanegara,24.25,28.0,6,31
+2003,8,2003-08,Agustus,,115435.0,hanya mancanegara,23.98,15.8,6,31
+2003,9,2003-09,September,,106753.0,hanya mancanegara,24.16,83.3,15,30
+2003,10,2003-10,Oktober,,97385.0,hanya mancanegara,24.88,95.7,15,31
+2003,11,2003-11,November,,83832.0,hanya mancanegara,25.79,358.5,22,30
+2003,12,2003-12,Desember,,94196.0,hanya mancanegara,25.88,283.5,30,31
+2004,1,2004-01,Januari,167106.0,105122.0,domestik+mancanegara,26.06,339.2,29,31
+2004,2,2004-02,Februari,133660.0,85231.0,domestik+mancanegara,26.33,292.3,29,29
+2004,3,2004-03,Maret,118369.0,100847.0,domestik+mancanegara,26.25,345.2,28,31
+2004,4,2004-04,April,129730.0,112158.0,domestik+mancanegara,26.5,68.2,22,30
+2004,5,2004-05,Mei,142186.0,118390.0,domestik+mancanegara,25.88,124.0,24,31
+2004,6,2004-06,Juni,167718.0,133033.0,domestik+mancanegara,24.96,11.9,4,30
+2004,7,2004-07,Juli,212463.0,149601.0,domestik+mancanegara,24.81,13.8,5,31
+2004,8,2004-08,Agustus,171034.0,156586.0,domestik+mancanegara,23.9,14.8,4,31
+2004,9,2004-09,September,168420.0,143352.0,domestik+mancanegara,24.57,22.4,7,30
+2004,10,2004-10,Oktober,150827.0,129610.0,domestik+mancanegara,25.34,33.7,11,31
+2004,11,2004-11,November,269132.0,111601.0,domestik+mancanegara,26.15,246.0,26,30
+2004,12,2004-12,Desember,207541.0,126659.0,domestik+mancanegara,26.01,375.5,30,31
+2005,1,2005-01,Januari,174515.0,102146.0,domestik+mancanegara,26.13,273.2,29,31
+2005,2,2005-02,Februari,161808.0,100839.0,domestik+mancanegara,26.62,243.5,28,28
+2005,3,2005-03,Maret,194411.0,117340.0,domestik+mancanegara,26.49,356.8,30,31
+2005,4,2005-04,April,174033.0,116486.0,domestik+mancanegara,26.43,284.2,21,30
+2005,5,2005-05,Mei,190855.0,116814.0,domestik+mancanegara,26.15,12.5,4,31
+2005,6,2005-06,Juni,201990.0,136544.0,domestik+mancanegara,25.7,72.8,13,30
+2005,7,2005-07,Juli,254264.0,158731.0,domestik+mancanegara,24.99,70.6,17,31
+2005,8,2005-08,Agustus,217782.0,157456.0,domestik+mancanegara,24.42,38.2,15,31
+2005,9,2005-09,September,218382.0,162307.0,domestik+mancanegara,24.81,36.7,15,30
+2005,10,2005-10,Oktober,168684.0,81343.0,domestik+mancanegara,25.26,234.8,24,31
+2005,11,2005-11,November,259543.0,62894.0,domestik+mancanegara,25.84,123.2,13,30
+2005,12,2005-12,Desember,192242.0,76084.0,domestik+mancanegara,25.73,563.9,31,31
+2006,1,2006-01,Januari,202857.0,80002.0,domestik+mancanegara,25.91,485.1,30,31
+2006,2,2006-02,Februari,161413.0,73075.0,domestik+mancanegara,25.93,274.6,23,28
+2006,3,2006-03,Maret,171795.0,84262.0,domestik+mancanegara,26.22,323.0,29,31
+2006,4,2006-04,April,192182.0,104044.0,domestik+mancanegara,25.9,259.8,27,30
+2006,5,2006-05,Mei,188152.0,101951.0,domestik+mancanegara,25.85,138.5,22,31
+2006,6,2006-06,Juni,204284.0,109825.0,domestik+mancanegara,24.83,43.3,11,30
+2006,7,2006-07,Juli,245909.0,122323.0,domestik+mancanegara,23.95,22.6,6,31
+2006,8,2006-08,Agustus,218117.0,118441.0,domestik+mancanegara,23.88,11.6,6,31
+2006,9,2006-09,September,196167.0,118551.0,domestik+mancanegara,24.04,3.6,1,30
+2006,10,2006-10,Oktober,238721.0,112876.0,domestik+mancanegara,25.21,8.4,3,31
+2006,11,2006-11,November,234308.0,114081.0,domestik+mancanegara,26.5,47.4,16,30
+2006,12,2006-12,Desember,220882.0,123106.0,domestik+mancanegara,26.44,363.1,29,31
+2007,1,2007-01,Januari,181266.0,109875.0,domestik+mancanegara,26.15,120.1,18,31
+2007,2,2007-02,Februari,144425.0,118483.0,domestik+mancanegara,26.44,281.8,28,28
+2007,3,2007-03,Maret,161009.0,119458.0,domestik+mancanegara,26.4,413.9,26,31
+2007,4,2007-04,April,165509.0,125393.0,domestik+mancanegara,26.13,208.0,27,30
+2007,5,2007-05,Mei,183736.0,129039.0,domestik+mancanegara,26.01,98.1,17,31
+2007,6,2007-06,Juni,214957.0,145500.0,domestik+mancanegara,25.0,105.2,20,30
+2007,7,2007-07,Juli,244032.0,164972.0,domestik+mancanegara,24.14,36.3,9,31
+2007,8,2007-08,Agustus,217822.0,167031.0,domestik+mancanegara,23.74,54.7,15,31
+2007,9,2007-09,September,181846.0,152804.0,domestik+mancanegara,24.04,4.5,1,30
+2007,10,2007-10,Oktober,299724.0,146385.0,domestik+mancanegara,25.07,70.4,15,31
+2007,11,2007-11,November,204579.0,142124.0,domestik+mancanegara,25.85,142.1,15,30
+2007,12,2007-12,Desember,285739.0,147467.0,domestik+mancanegara,25.78,533.6,31,31
+2008,1,2008-01,Januari,225955.0,147799.0,domestik+mancanegara,26.02,307.7,26,31
+2008,2,2008-02,Februari,190792.0,161776.0,domestik+mancanegara,26.07,373.7,26,29
+2008,3,2008-03,Maret,221181.0,160708.0,domestik+mancanegara,25.65,541.9,31,31
+2008,4,2008-04,April,206631.0,154911.0,domestik+mancanegara,25.89,240.1,19,30
+2008,5,2008-05,Mei,226339.0,167463.0,domestik+mancanegara,25.35,81.7,20,31
+2008,6,2008-06,Juni,256448.0,178404.0,domestik+mancanegara,24.82,15.3,6,30
+2008,7,2008-07,Juli,329362.0,190854.0,domestik+mancanegara,24.0,17.3,8,31
+2008,8,2008-08,Agustus,259511.0,195549.0,domestik+mancanegara,24.3,47.6,15,31
+2008,9,2008-09,September,205304.0,189346.0,domestik+mancanegara,24.78,36.1,11,30
+2008,10,2008-10,Oktober,306112.0,189234.0,domestik+mancanegara,25.89,102.5,26,31
+2008,11,2008-11,November,203416.0,173077.0,domestik+mancanegara,25.94,332.3,29,30
+2008,12,2008-12,Desember,267742.0,175963.0,domestik+mancanegara,25.84,289.1,27,31
+2009,1,2009-01,Januari,264915.0,,hanya domestik,25.93,361.1,29,31
+2009,2,2009-02,Februari,204419.0,,hanya domestik,25.78,375.6,27,28
+2009,3,2009-03,Maret,255203.0,,hanya domestik,26.24,223.2,27,31
+2009,4,2009-04,April,247100.0,,hanya domestik,26.66,114.1,23,30
+2009,5,2009-05,Mei,289635.0,,hanya domestik,26.09,200.4,28,31
+2009,6,2009-06,Juni,304213.0,,hanya domestik,25.77,26.6,6,30
+2009,7,2009-07,Juli,340610.0,,hanya domestik,24.83,48.4,11,31
+2009,8,2009-08,Agustus,280972.0,,hanya domestik,24.39,13.8,6,31
+2009,9,2009-09,September,352257.0,,hanya domestik,24.37,107.9,17,30
+2009,10,2009-10,Oktober,330337.0,,hanya domestik,25.23,74.0,15,31
+2009,11,2009-11,November,285526.0,,hanya domestik,26.5,98.2,21,30
+2009,12,2009-12,Desember,365948.0,,hanya domestik,26.77,129.6,25,31
+2010,1,2010-01,Januari,349575.0,,hanya domestik,26.39,313.4,30,31
+2010,2,2010-02,Februari,238789.0,,hanya domestik,26.63,343.2,27,28
+2010,3,2010-03,Maret,202995.0,,hanya domestik,26.99,229.3,29,31
+2010,4,2010-04,April,396898.0,,hanya domestik,26.61,348.4,29,30
+2010,5,2010-05,Mei,421369.0,,hanya domestik,26.54,358.7,30,31
+2010,6,2010-06,Juni,455456.0,,hanya domestik,26.02,128.3,22,30
+2010,7,2010-07,Juli,489307.0,,hanya domestik,25.33,167.5,25,31
+2010,8,2010-08,Agustus,377570.0,,hanya domestik,25.18,92.5,21,31
+2010,9,2010-09,September,594662.0,,hanya domestik,25.58,330.9,25,30
+2010,10,2010-10,Oktober,391722.0,,hanya domestik,26.0,237.3,28,31
+2010,11,2010-11,November,361395.0,,hanya domestik,26.38,261.7,26,30
+2010,12,2010-12,Desember,366605.0,,hanya domestik,26.17,355.9,29,31
+2011,1,2011-01,Januari,280588.0,,hanya domestik,26.0,380.7,31,31
+2011,2,2011-02,Februari,340508.0,,hanya domestik,26.32,321.0,26,28
+2011,3,2011-03,Maret,358313.0,,hanya domestik,25.94,295.9,31,31
+2011,4,2011-04,April,385228.0,,hanya domestik,25.72,268.8,28,30
+2011,5,2011-05,Mei,463452.0,,hanya domestik,25.71,244.5,26,31
+2011,6,2011-06,Juni,568264.0,,hanya domestik,24.49,44.0,10,30
+2011,7,2011-07,Juli,573103.0,,hanya domestik,24.12,34.5,16,31
+2011,8,2011-08,Agustus,440751.0,,hanya domestik,24.06,8.8,2,31
+2011,9,2011-09,September,609633.0,,hanya domestik,24.18,27.9,13,30
+2011,10,2011-10,Oktober,526302.0,,hanya domestik,24.98,68.3,21,31
+2011,11,2011-11,November,574016.0,,hanya domestik,25.93,266.9,28,30
+2011,12,2011-12,Desember,554963.0,,hanya domestik,26.04,320.2,30,31
+2012,1,2012-01,Januari,333199.0,,hanya domestik,25.85,583.6,30,31
+2012,2,2012-02,Februari,305934.0,,hanya domestik,25.91,317.4,28,29
+2012,3,2012-03,Maret,307616.0,,hanya domestik,25.75,472.6,30,31
+2012,4,2012-04,April,331378.0,,hanya domestik,26.21,118.7,23,30
+2012,5,2012-05,Mei,525076.0,,hanya domestik,25.53,111.6,24,31
+2012,6,2012-06,Juni,569635.0,,hanya domestik,24.69,24.3,7,30
+2012,7,2012-07,Juli,524334.0,,hanya domestik,23.62,44.5,10,31
+2012,8,2012-08,Agustus,661334.0,,hanya domestik,23.66,10.3,4,31
+2012,9,2012-09,September,572359.0,,hanya domestik,24.2,16.7,8,30
+2012,10,2012-10,Oktober,667703.0,,hanya domestik,25.5,39.2,16,31
+2012,11,2012-11,November,545348.0,,hanya domestik,26.33,146.7,28,30
+2012,12,2012-12,Desember,719642.0,,hanya domestik,26.24,506.2,31,31
+2013,1,2013-01,Januari,426360.0,,hanya domestik,26.11,397.0,31,31
+2013,2,2013-02,Februari,369525.0,,hanya domestik,26.56,264.0,25,28
+2013,3,2013-03,Maret,431393.0,,hanya domestik,26.4,281.8,25,31
+2013,4,2013-04,April,403211.0,,hanya domestik,26.58,229.7,20,30
+2013,5,2013-05,Mei,456491.0,,hanya domestik,26.35,295.0,26,31
+2013,6,2013-06,Juni,785053.0,,hanya domestik,26.08,311.4,28,30
+2013,7,2013-07,Juli,474769.0,,hanya domestik,24.94,82.4,18,31
+2013,8,2013-08,Agustus,878278.0,,hanya domestik,24.51,19.3,7,31
+2013,9,2013-09,September,473697.0,,hanya domestik,24.35,32.4,9,30
+2013,10,2013-10,Oktober,758351.0,,hanya domestik,25.43,33.8,10,31
+2013,11,2013-11,November,678748.0,,hanya domestik,25.83,288.7,24,30
+2013,12,2013-12,Desember,840660.0,,hanya domestik,25.84,555.1,25,31
+2014,1,2014-01,Januari,517500.0,,hanya domestik,25.85,350.8,29,31
+2014,2,2014-02,Februari,296581.0,,hanya domestik,26.02,309.9,28,28
+2014,3,2014-03,Maret,255403.0,,hanya domestik,26.36,209.7,21,31
+2014,4,2014-04,April,318800.0,,hanya domestik,26.36,174.5,25,30
+2014,5,2014-05,Mei,385366.0,,hanya domestik,26.77,41.1,16,31
+2014,6,2014-06,Juni,667201.0,,hanya domestik,25.82,25.2,9,30
+2014,7,2014-07,Juli,682941.0,,hanya domestik,24.62,66.6,18,31
+2014,8,2014-08,Agustus,843958.0,,hanya domestik,24.41,28.9,11,31
+2014,9,2014-09,September,615429.0,,hanya domestik,24.51,2.6,1,30
+2014,10,2014-10,Oktober,549998.0,,hanya domestik,25.42,7.4,3,31
+2014,11,2014-11,November,468743.0,,hanya domestik,26.4,146.8,25,30
+2014,12,2014-12,Desember,792387.0,,hanya domestik,25.89,622.7,31,31
+2015,1,2015-01,Januari,528506.0,,hanya domestik,26.05,284.9,25,31
+2015,2,2015-02,Februari,483221.0,,hanya domestik,26.01,296.1,25,28
+2015,3,2015-03,Maret,503311.0,,hanya domestik,26.33,267.8,27,31
+2015,4,2015-04,April,528668.0,,hanya domestik,26.26,368.1,25,30
+2015,5,2015-05,Mei,651089.0,,hanya domestik,25.88,47.9,11,31
+2015,6,2015-06,Juni,571646.0,,hanya domestik,25.21,23.2,5,30
+2015,7,2015-07,Juli,799765.0,,hanya domestik,24.45,9.5,3,31
+2015,8,2015-08,Agustus,641684.0,,hanya domestik,24.25,5.8,2,31
+2015,9,2015-09,September,557081.0,,hanya domestik,24.49,13.9,5,30
+2015,10,2015-10,Oktober,619599.0,,hanya domestik,25.61,5.2,1,31
+2015,11,2015-11,November,529381.0,,hanya domestik,26.48,65.2,16,30
+2015,12,2015-12,Desember,733149.0,,hanya domestik,26.48,308.6,29,31
+2016,1,2016-01,Januari,597558.0,,hanya domestik,27.01,289.3,28,31
+2016,2,2016-02,Februari,513852.0,,hanya domestik,26.23,696.5,28,29
+2016,3,2016-03,Maret,576438.0,,hanya domestik,27.25,225.0,28,31
+2016,4,2016-04,April,534395.0,,hanya domestik,27.41,174.5,25,30
+2016,5,2016-05,Mei,647790.0,,hanya domestik,27.04,134.9,22,31
+2016,6,2016-06,Juni,1035563.0,,hanya domestik,26.53,110.6,18,30
+2016,7,2016-07,Juli,1084950.0,,hanya domestik,25.9,153.7,20,31
+2016,8,2016-08,Agustus,704662.0,,hanya domestik,25.26,68.2,20,31
+2016,9,2016-09,September,725240.0,,hanya domestik,25.93,182.2,22,30
+2016,10,2016-10,Oktober,685244.0,,hanya domestik,26.44,305.1,25,31
+2016,11,2016-11,November,655962.0,,hanya domestik,26.44,281.6,30,30
+2016,12,2016-12,Desember,882026.0,,hanya domestik,26.26,537.4,30,31
+2017,1,2017-01,Januari,658308.0,,hanya domestik,26.08,481.2,30,31
+2017,2,2017-02,Februari,520462.0,,hanya domestik,26.02,458.5,24,28
+2017,3,2017-03,Maret,618834.0,,hanya domestik,26.34,254.3,29,31
+2017,4,2017-04,April,705710.0,,hanya domestik,26.3,226.5,23,30
+2017,5,2017-05,Mei,646467.0,,hanya domestik,26.42,157.6,25,31
+2017,6,2017-06,Juni,659718.0,,hanya domestik,25.72,152.2,24,30
+2017,7,2017-07,Juli,890368.0,,hanya domestik,25.25,124.2,19,31
+2017,8,2017-08,Agustus,790323.0,,hanya domestik,24.97,59.2,23,31
+2017,9,2017-09,September,832026.0,,hanya domestik,25.5,68.7,14,30
+2017,10,2017-10,Oktober,732720.0,,hanya domestik,25.98,106.9,23,31
+2017,11,2017-11,November,741649.0,,hanya domestik,26.06,462.7,27,30
+2017,12,2017-12,Desember,939048.0,,hanya domestik,26.05,367.4,27,31
+2018,1,2018-01,Januari,743456.0,,hanya domestik,25.88,420.8,28,31
+2018,2,2018-02,Februari,655719.0,,hanya domestik,25.71,427.2,28,28
+2018,3,2018-03,Maret,762622.0,,hanya domestik,26.07,168.3,25,31
+2018,4,2018-04,April,777287.0,,hanya domestik,26.85,51.7,20,30
+2018,5,2018-05,Mei,682521.0,,hanya domestik,26.55,72.0,21,31
+2018,6,2018-06,Juni,1156151.0,,hanya domestik,25.62,82.7,20,30
+2018,7,2018-07,Juli,906347.0,,hanya domestik,24.75,45.7,17,31
+2018,8,2018-08,Agustus,770364.0,,hanya domestik,24.25,71.4,21,31
+2018,9,2018-09,September,774144.0,,hanya domestik,25.01,35.7,16,30
+2018,10,2018-10,Oktober,762124.0,,hanya domestik,25.99,39.4,19,31
+2018,11,2018-11,November,806397.0,,hanya domestik,26.43,205.5,26,30
+2018,12,2018-12,Desember,960859.0,,hanya domestik,26.52,187.4,28,31
+2019,1,2019-01,Januari,793527.0,,hanya domestik,26.39,290.2,31,31
+2019,2,2019-02,Februari,692113.0,,hanya domestik,26.53,158.2,27,28
+2019,3,2019-03,Maret,787616.0,,hanya domestik,26.07,356.8,28,31
+2019,4,2019-04,April,795997.0,,hanya domestik,26.5,210.9,29,30
+2019,5,2019-05,Mei,656082.0,,hanya domestik,26.04,71.3,25,31
+2019,6,2019-06,Juni,1287877.0,,hanya domestik,24.99,54.3,15,30
+2019,7,2019-07,Juli,935930.0,,hanya domestik,24.29,57.9,18,31
+2019,8,2019-08,Agustus,925360.0,,hanya domestik,24.05,45.6,16,31
+2019,9,2019-09,September,812003.0,,hanya domestik,24.45,39.2,18,30
+2019,10,2019-10,Oktober,853007.0,,hanya domestik,25.76,35.7,16,31
+2019,11,2019-11,November,852626.0,,hanya domestik,26.79,46.6,16,30
+2019,12,2019-12,Desember,1152901.0,,hanya domestik,27.46,151.4,25,31
+2020,1,2020-01,Januari,879702.0,,hanya domestik,27.15,162.5,26,31
+2020,2,2020-02,Februari,721105.0,,hanya domestik,26.94,182.7,26,29
+2020,3,2020-03,Maret,567452.0,,hanya domestik,26.76,215.3,29,31
+2020,4,2020-04,April,175120.0,,hanya domestik,26.92,166.1,25,30
+2020,5,2020-05,Mei,101948.0,,hanya domestik,26.85,212.2,16,31
+2020,6,2020-06,Juni,137395.0,,hanya domestik,25.96,110.5,25,30
+2020,7,2020-07,Juli,229112.0,,hanya domestik,25.11,65.9,21,31
+2020,8,2020-08,Agustus,355732.0,,hanya domestik,24.98,73.1,23,31
+2020,9,2020-09,September,283349.0,,hanya domestik,25.55,79.3,23,30
+2020,10,2020-10,Oktober,337304.0,,hanya domestik,25.96,130.2,26,31
+2020,11,2020-11,November,425097.0,,hanya domestik,26.58,168.0,23,30
+2020,12,2020-12,Desember,382841.0,,hanya domestik,26.06,259.5,30,31
+2021,1,2021-01,Januari,282248.0,,hanya domestik,25.64,517.1,31,31
+2021,2,2021-02,Februari,240608.0,,hanya domestik,25.94,266.3,25,28
+2021,3,2021-03,Maret,305579.0,,hanya domestik,26.01,286.6,25,31
+2021,4,2021-04,April,330593.0,,hanya domestik,26.27,46.4,11,30
+2021,5,2021-05,Mei,363959.0,,hanya domestik,26.59,46.8,17,31
+2021,6,2021-06,Juni,498852.0,,hanya domestik,26.1,127.5,17,30
+2021,7,2021-07,Juli,166718.0,,hanya domestik,25.56,53.2,14,31
+2021,8,2021-08,Agustus,202187.0,,hanya domestik,25.25,104.5,26,31
+2021,9,2021-09,September,298950.0,,hanya domestik,25.5,112.1,23,30
+2021,10,2021-10,Oktober,468826.0,,hanya domestik,25.89,90.0,18,31
+2021,11,2021-11,November,513482.0,,hanya domestik,25.97,270.4,29,30
+2021,12,2021-12,Desember,629590.0,,hanya domestik,26.28,276.6,29,31
+2022,1,2022-01,Januari,527447.0,,hanya domestik,25.97,295.2,28,31
+2022,2,2022-02,Februari,389690.0,,hanya domestik,26.0,227.5,26,28
+2022,3,2022-03,Maret,547726.0,,hanya domestik,26.42,217.4,28,31
+2022,4,2022-04,April,500740.0,,hanya domestik,26.52,125.9,23,30
+2022,5,2022-05,Mei,960692.0,,hanya domestik,26.92,131.6,22,31
+2022,6,2022-06,Juni,753907.0,,hanya domestik,26.2,150.5,24,30
+2022,7,2022-07,Juli,784205.0,,hanya domestik,25.31,123.6,19,31
+2022,8,2022-08,Agustus,659567.0,,hanya domestik,25.37,68.5,23,31
+2022,9,2022-09,September,622068.0,,hanya domestik,25.48,100.6,23,30
+2022,10,2022-10,Oktober,718066.0,,hanya domestik,25.53,220.8,25,31
+2022,11,2022-11,November,657949.0,,hanya domestik,25.83,251.2,29,30
+2022,12,2022-12,Desember,930917.0,,hanya domestik,25.77,359.6,25,31
+2023,1,2023-01,Januari,720164.0,,hanya domestik,26.02,195.0,23,31
+2023,2,2023-02,Februari,629282.0,,hanya domestik,25.6,428.0,27,28
+2023,3,2023-03,Maret,665751.0,,hanya domestik,26.15,109.7,25,31
+2023,4,2023-04,April,900880.0,,hanya domestik,26.06,210.4,24,30
+2023,5,2023-05,Mei,943713.0,,hanya domestik,26.18,96.9,14,31
+2023,6,2023-06,Juni,883793.0,,hanya domestik,25.76,51.2,14,30
+2023,7,2023-07,Juli,898260.0,,hanya domestik,24.82,109.0,19,31
+2023,8,2023-08,Agustus,712860.0,,hanya domestik,24.35,35.3,17,31
+2023,9,2023-09,September,755293.0,,hanya domestik,24.84,33.8,13,30
+2023,10,2023-10,Oktober,813745.0,,hanya domestik,26.64,36.6,12,31
+2023,11,2023-11,November,749268.0,,hanya domestik,27.1,91.7,23,30
+2023,12,2023-12,Desember,1204902.0,,hanya domestik,27.27,102.7,22,31
+2024,1,2024-01,Januari,774529.0,,hanya domestik,27.55,151.0,23,31
+2024,2,2024-02,Februari,726744.0,,hanya domestik,26.93,247.7,27,29
+2024,3,2024-03,Maret,612742.0,,hanya domestik,27.25,285.6,25,31
+2024,4,2024-04,April,1124781.0,,hanya domestik,26.78,230.4,28,30
+2024,5,2024-05,Mei,852253.0,,hanya domestik,26.41,90.3,27,31
+2024,6,2024-06,Juni,898335.0,,hanya domestik,25.76,80.7,19,30
+2024,7,2024-07,Juli,926975.0,,hanya domestik,25.12,80.9,19,31
+2024,8,2024-08,Agustus,853713.0,,hanya domestik,25.02,36.2,14,31
+2024,9,2024-09,September,856370.0,,hanya domestik,26.0,62.7,22,30
+2024,10,2024-10,Oktober,828647.0,,hanya domestik,26.77,71.3,18,31
+2024,11,2024-11,November,724560.0,,hanya domestik,27.44,200.7,23,30
+2024,12,2024-12,Desember,941137.0,,hanya domestik,26.25,422.9,30,31
+2025,1,2025-01,Januari,902688.0,,hanya domestik,26.05,389.8,31,31
+2025,2,2025-02,Februari,686283.0,,hanya domestik,26.56,257.0,23,28
+2025,3,2025-03,Maret,633380.0,,hanya domestik,27.04,212.9,26,31
+2025,4,2025-04,April,1127649.0,,hanya domestik,27.24,90.7,13,30
+2025,5,2025-05,Mei,774930.0,,hanya domestik,26.69,293.1,28,31
+2025,6,2025-06,Juni,902879.0,,hanya domestik,26.07,166.0,20,30
+2025,7,2025-07,Juli,800121.0,,hanya domestik,25.13,82.8,16,31
+2025,8,2025-08,Agustus,770278.0,,hanya domestik,25.42,46.2,14,31
+2025,9,2025-09,September,763690.0,,hanya domestik,25.76,250.5,18,30
+2025,10,2025-10,Oktober,652753.0,,hanya domestik,26.49,118.5,23,31
+2025,11,2025-11,November,718679.0,,hanya domestik,26.65,251.4,22,30
+2025,12,2025-12,Desember,879181.0,,hanya domestik,27.12,176.8,24,31
